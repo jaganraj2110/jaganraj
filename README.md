@@ -27,7 +27,7 @@ Git | GitHub | VS Code
 
 ## 📫 Contact
 
-📧 yourmail@example.com
+📧 jagasel21@gmail.com
 
 ---
 ⭐ Feel free to explore my repositories!
